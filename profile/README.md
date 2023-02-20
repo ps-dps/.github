@@ -2,8 +2,8 @@
 
 |   |   |   |   |   |
 | - | - | - | - | - |
-| <img src="https://github.com/ps-dps/KeepSomeInventory/raw/main/src/pack.png" height=50, width=50> | **KeepSomeInventory** | [Download](https://modrinth.com/datapack/keep-some-inventory/versions) | [Source](https://github.com/ps-dps/KeepSomeInventory) | [Issues](https://github.com/ps-dps/KeepSomeInventory/issues) |
-| <img src="https://github.com/puckisilver/MobCaptains/raw/main/src/pack.png" height=50, width=50> | **MobCaptains** | [Download](https://modrinth.com/datapack/mob-captains/versions) | [Source](https://github.com/PuckiSilver/MobCaptains) | [Issues](https://github.com/PuckiSilver/MobCaptains/issues) |
+| <img src="https://github.com/ps-dps/KeepSomeInventory/raw/main/src/pack.png" height=50, width=50> | **KeepSomeInventory**<br>Don't lose your equipment when dying | [Download](https://modrinth.com/datapack/keep-some-inventory/versions) | [Source](https://github.com/ps-dps/KeepSomeInventory) | [Issues](https://github.com/ps-dps/KeepSomeInventory/issues) |
+| <img src="https://github.com/puckisilver/MobCaptains/raw/main/src/pack.png" height=50, width=50> | **MobCaptains**<br>Rare and strong mobs will spawn, dropping illegally enchanted gear | [Download](https://modrinth.com/datapack/mob-captains/versions) | [Source](https://github.com/PuckiSilver/MobCaptains) | [Issues](https://github.com/PuckiSilver/MobCaptains/issues) |
 
 ---
 Check me out on other platforms:
