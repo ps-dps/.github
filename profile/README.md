@@ -4,7 +4,7 @@
 |   |   |   |   |   |
 | - | - | - | - | - |
 | <img src="https://github.com/ps-dps/MobCaptains/raw/main/src/pack.png" height=50, width=50> | **Mob Captains**<br>Rare and strong mobs will spawn, dropping illegally enchanted gear | [Download](https://modrinth.com/datapack/mob-captains/versions) | [Source](https://github.com/ps-dps/MobCaptains) | [Issues](https://github.com/ps-dps/MobCaptains/issues) |
-| <img src="https://github.com/ps-dps/Multitool/raw/main/src/pack.png" height=50, width=50> | **Multitool**<br>Combine all the tools into the Multitool | [Download](https://modrinth.com/datapack/multitool/versions) | [Source](https://github.com/ps-dps/Multitool) | [Issues](https://github.com/ps-dps/Multitool/issues) |
+| <img src="https://github.com/ps-dps/Multitool/raw/main/images/pack.png" height=50, width=50> | **Multitool**<br>Combine all the tools into the Multitool | [Download](https://modrinth.com/datapack/multitool/versions) | [Source](https://github.com/ps-dps/Multitool) | [Issues](https://github.com/ps-dps/Multitool/issues) |
 | <img src="https://github.com/ps-dps/KeepSomeInventory/raw/main/src/pack.png" height=50, width=50> | **Keep Some Inventory**<br>Don't lose your equipment when dying | [Download](https://modrinth.com/datapack/keep-some-inventory/versions) | [Source](https://github.com/ps-dps/KeepSomeInventory) | [Issues](https://github.com/ps-dps/KeepSomeInventory/issues) |
 
 ## **Other Stuff I Created**
