@@ -15,6 +15,8 @@
 | **mc-silica**<br>A vanilla shader to display cool down dynamically | [Download](https://github.com/PuckiSilver/mc-silica) | [Source](https://github.com/PuckiSilver/mc-silica) | [Issues](https://github.com/PuckiSilver/mc-silica/issues) |
 | **Book of Experience**<br>Save your XP in an item to store or to share with others | [Download](https://modrinth.com/datapack/book-of-experience/versions) | Source | Issues |
 
+If you want to package a data pack (and resource pack) to a mod for Forge, Fabric and Quilt, you can use [Cardboard](https://github.com/PuckiSilver/Cardboard)!
+
 ---
 Check me out on other platforms:
 
