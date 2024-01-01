@@ -1,4 +1,4 @@
-![image](https://github.com/ps-dps/.github/assets/84644295/c2f6e8ef-1b23-4125-87ee-4b1225ea69b5)# **PuckiSilver's Data Packs**
+# **PuckiSilver's Data Packs**
 ## **Data Packs**
 
 |   |   |   |   |   |
